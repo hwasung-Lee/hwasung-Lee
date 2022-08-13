@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![hwasung-Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwasung-Lee)
+[![hwasung-Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwasung-Lee)]
 <!--
 **hwasung-Lee/hwasung-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
